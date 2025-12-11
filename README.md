@@ -3,19 +3,27 @@
 <div align="center">
 	<strong>A curated library of system instructions and prompts for Generative AI.</strong><br>
 	<em>Une bibliothèque de consignes système et de prompts pour l'IA Générative.</em>
-	<div style="margin-top: 12px;">
-		<a href="https://github.com/" target="_blank" style="margin-right: 6px;">
-			<img src="https://img.shields.io/badge/access-public-green?style=flat-square&logo=github" alt="GitHub Public Repository" />
-		</a>
-		<a href="https://github.com/axelduret/ai-instructions/tree/main?tab=readme-ov-file#MIT-1-ov-file" target="_blank" style="margin-right: 6px;">
-			<img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="License: MIT" />
-		</a>
-		<a href="https://makeapullrequest.com" target="_blank" rel="noopener noreferrer" style="margin-right: 6px;">
-			<img src="https://img.shields.io/badge/PRs-welcome-orange?style=flat-square" alt="PRs Welcome" />
-		</a>
-		<a href="https://github.com/axelduret/ai-instructions/tree/main?tab=readme-ov-file#readme" target="_blank">
-			<img src="https://img.shields.io/badge/format-markdown%20(.md)-lightgrey?style=flat-square&logo=markdown" alt="Markdown Only" />
-		</a>
+	<div style="margin-top: 12px; text-align: center;">
+		<span style="margin-right: 6px;">
+			<a href="https://github.com/" target="_blank">
+				<img src="https://img.shields.io/badge/access-public-green?style=flat-square&logo=github" alt="GitHub Public Repository" />
+			</a>
+		</span>
+		<span style="margin-right: 6px;">
+			<a href="https://github.com/axelduret/ai-instructions/tree/main?tab=readme-ov-file#MIT-1-ov-file" target="_blank">
+				<img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="License: MIT" />
+			</a>
+		</span>
+		<span style="margin-right: 6px;">
+			<a href="https://makeapullrequest.com" target="_blank" rel="noopener noreferrer">
+				<img src="https://img.shields.io/badge/PRs-welcome-orange?style=flat-square" alt="PRs Welcome" />
+			</a>
+		</span>
+		<span>
+			<a href="https://github.com/axelduret/ai-instructions/tree/main?tab=readme-ov-file#readme" target="_blank">
+				<img src="https://img.shields.io/badge/format-markdown%20(.md)-lightgrey?style=flat-square&logo=markdown" alt="Markdown Only" />
+			</a>
+		</span>
 	</div>
 </div>
 
