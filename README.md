@@ -33,16 +33,13 @@
 
 <details open>
 <summary><b>English</b></summary>
-
 This repository serves as a knowledge base for sharing and discovering high-quality instructions (<b>System Prompts</b>) for <b>Generative AI Models</b> (LLM, GPT, Claude, etc.).
-
 </details>
+<br />
 
 <details open>
 <summary><b>Français</b></summary>
-
 Ce dépôt sert de base de connaissances pour partager et découvrir des instructions de haute qualité (<b>System Prompts</b>) pour les <b>Modèles d'IA Générative</b> (LLM, GPT, Claude, etc.).
-
 </details>
 
 ---
