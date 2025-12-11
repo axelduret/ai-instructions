@@ -1,26 +1,26 @@
 # 🧠 AI Instructions & Prompts Collection
 
 <div align="center">
-	<strong>A curated library of system instructions and prompts for Generative AI.</strong><br>
+	<b>A curated library of system instructions and prompts for Generative AI.</b><br />
 	<em>Une bibliothèque de consignes système et de prompts pour l'IA Générative.</em>
 	<div style="margin-top: 12px; text-align: center;">
 		<span style="margin-right: 6px;">
-			<a href="https://github.com/" target="_blank">
+			<a href="https://github.com/" target="_blank" style="text-decoration: none;">
 				<img src="https://img.shields.io/badge/access-public-green?style=flat-square&logo=github" alt="GitHub Public Repository" />
 			</a>
 		</span>
 		<span style="margin-right: 6px;">
-			<a href="https://github.com/axelduret/ai-instructions/tree/main?tab=readme-ov-file#MIT-1-ov-file" target="_blank">
+			<a href="https://github.com/axelduret/ai-instructions/tree/main?tab=readme-ov-file#MIT-1-ov-file" target="_blank" style="text-decoration: none;">
 				<img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="License: MIT" />
 			</a>
 		</span>
 		<span style="margin-right: 6px;">
-			<a href="https://makeapullrequest.com" target="_blank" rel="noopener noreferrer">
+			<a href="https://makeapullrequest.com" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
 				<img src="https://img.shields.io/badge/PRs-welcome-orange?style=flat-square" alt="PRs Welcome" />
 			</a>
 		</span>
 		<span>
-			<a href="https://github.com/axelduret/ai-instructions/tree/main?tab=readme-ov-file#readme" target="_blank">
+			<a href="https://github.com/axelduret/ai-instructions/tree/main?tab=readme-ov-file#readme" target="_blank" style="text-decoration: none;">
 				<img src="https://img.shields.io/badge/format-markdown%20(.md)-lightgrey?style=flat-square&logo=markdown" alt="Markdown Only" />
 			</a>
 		</span>
@@ -34,9 +34,7 @@
 <details open>
 <summary><b>English</b></summary>
 This repository serves as a knowledge base for sharing and discovering high-quality instructions (<b>System Prompts</b>) for <b>Generative AI Models</b> (LLM, GPT, Claude, etc.).
-</details>
-<br />
-
+</details><br />
 <details open>
 <summary><b>Français</b></summary>
 Ce dépôt sert de base de connaissances pour partager et découvrir des instructions de haute qualité (<b>System Prompts</b>) pour les <b>Modèles d'IA Générative</b> (LLM, GPT, Claude, etc.).
