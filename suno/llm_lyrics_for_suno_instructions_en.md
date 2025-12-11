@@ -1,9 +1,7 @@
 # 🎵 Music Generation
 
 <div align="center">
-
-_Generate structured lyrics tailored for [Suno AI](https://suno.com) (Verse, Chorus, Bridge)._
-
+<i>Generate structured lyrics tailored for <a href="https://suno.com" target="_blank" rel="noopener noreferrer">Suno AI</a> (Verse, Chorus, Bridge).</i>
 </div>
 
 ---
@@ -47,6 +45,6 @@ _Paste the prompt below_
 
 ### Examples :
 
-🔗 [Jamaican Narrative Soul](https://suno.com/s/U38G7GpohOAFJQIT)
-🔗 [French Reggae Song](https://suno.com/s/sFvwSMO3UJK3e04y)
-🔗 [French Reggae Balade](https://suno.com/s/Dc04I9oKdTRawufl)
+<div><a href="https://suno.com/s/U38G7GpohOAFJQIT" target="_blank" rel="noopener noreferrer">🔗 Jamaican Narrative Soul</a></div>
+<div><a href="https://suno.com/s/sFvwSMO3UJK3e04y" target="_blank" rel="noopener noreferrer">🔗 French Reggae Song</a></div>
+<div><a href="https://suno.com/s/Dc04I9oKdTRawufl" target="_blank" rel="noopener noreferrer">🔗 French Reggae Balade</a></div>
