@@ -1,0 +1,28 @@
+# Ignore everything by default
+*
+
+# --- Whitelist ---
+
+# Allow specific files in the root
+!.gitignore
+
+# Allow directories and their contents
+!*/
+
+# Configuration files
+!_config.yml
+
+# License file
+!LICENSE
+
+# Markdown files
+!*.md
+
+# Html files
+!*.html
+
+# Images for documentation
+!*.png
+!*.jpg
+!*.jpeg
+!*.svg
