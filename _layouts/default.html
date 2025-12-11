@@ -5,11 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <title>{{ site.title | default: site.github.repository_name }}</title>
-    
-    <!-- Load Theme Stylesheet -->
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    
-    <!-- Custom CSS for Fixed Navbar and Footer -->
     <style>
         /* --- Fixed Navigation Bar --- */
         .custom-nav {
@@ -23,7 +19,6 @@
             text-align: center;
             box-shadow: 0 2px 5px rgba(0,0,0,0.2);
         }
-
         /* Navigation Links Style */
         .custom-nav a {
             color: #fff;
@@ -33,13 +28,11 @@
             font-family: "Open Sans", sans-serif;
             font-size: 0.95rem;
         }
-
         /* Hover Effect */
         .custom-nav a:hover {
             color: #159957; /* Cayman Green accent */
             text-decoration: underline;
         }
-
         /* --- Body Adjustments --- */
         body {
             /* Top margin to prevent navbar from overlapping content */
@@ -48,12 +41,10 @@
             flex-direction: column;
             min-height: 100vh; /* Full viewport height */
         }
-
         /* Main content area expands to fill space */
         .main-content {
             flex: 1;
         }
-
         /* --- Footer Style --- */
         .custom-footer {
             background-color: #f2f2f2;
@@ -67,45 +58,26 @@
     </style>
   </head>
   <body>
-
-    <!-- START NAVIGATION MENU -->
     <nav class="custom-nav">
-        <!-- Home Link -->
         <a href="{{ '/' | relative_url }}">Home</a>
-        
-        <!-- Direct links to instruction pages -->
-        <!-- Note: We link to .html because GitHub Pages renders .md to .html -->
         <a href="{{ '/suno/llm_lyrics_for_suno_instructions_en.html' | relative_url }}">Suno (EN)</a>
         <a href="{{ '/suno/llm_lyrics_for_suno_instructions_fr.html' | relative_url }}">Suno (FR)</a>
-        
-        <!-- External Link to GitHub Repo -->
         <a href="{{ site.github.repository_url }}" target="_blank">GitHub ↗</a>
     </nav>
-    <!-- END NAVIGATION MENU -->
-
-    <!-- Theme Header (Title & Description) -->
     <section class="page-header">
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-      
-      <!-- Download buttons (controlled via _config.yml) -->
       {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
       {% endif %}
     </section>
-
-    <!-- Main Content Area (Where README.md and other files are injected) -->
     <section class="main-content">
       {{ content }}
     </section>
-
-    <!-- START FOOTER -->
     <footer class="custom-footer">
         <p>AI Instructions & Prompts Collection.</p>
-        <p>Open Source - <a href="https://github.com/axelduret/ai-instructions/tree/main?tab=readme-ov-file#MIT-1-ov-file">MIT License</a></p>
+        <p>Open Source - <a href="https://github.com/axelduret/ai-instructions/tree/main?tab=readme-ov-file#MIT-1-ov-file" target="_blank">MIT License</a></p>
     </footer>
-    <!-- END FOOTER -->
-
   </body>
 </html>
