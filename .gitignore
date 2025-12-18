@@ -26,3 +26,8 @@
 !*.jpg
 !*.jpeg
 !*.svg
+
+# --- Blacklist ---
+
+# Ignore directories starting with a tilde (~) and their content
+**/~*/
